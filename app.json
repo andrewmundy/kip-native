@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Kip",
+    "icon": "./logo.png",
+    "version": "0.1.0",
+    "slug": "kip-react-native",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.andrewmundy.kip"
+    }
+  }
+}
